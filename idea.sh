@@ -22,4 +22,9 @@ cp backup-install.txt Backup/
 tar -cvf Backup.tar Backup
 gzip -v Backup.tar
 rm -r Backup
+rm idea.desktop
+rm backup.sh
+rm ideaIC-2021.1.2.tar.gz
+rm backup-install.txt
+rm idea.sh
 echo "Completed Backup"
