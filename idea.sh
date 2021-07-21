@@ -21,4 +21,5 @@ cp idea.desktop Backup/
 cp backup-install.txt Backup/
 tar -cvf Backup.tar Backup
 gzip -v Backup.tar
+rm -r Backup
 echo "Completed Backup"
