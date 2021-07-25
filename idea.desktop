@@ -2,7 +2,7 @@
 
 Name=IntelliJ IDEA
 Comment=Java Development Environment
-Icon=/opt//idea/bin/idea.png
+Icon=/opt//idea/bin/idea.svg
 Exec=/usr/bin/idea
 Terminal=false
 Type=Application
